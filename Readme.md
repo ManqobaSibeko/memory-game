@@ -1,11 +1,11 @@
 
 # Match Memory Game 
-
+---
 - Test your memory with this memory game.
 
   - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
 
-
+---
 Simple grid base game of which you as a player have to flip over two card
 
 if the two cards match that's one point for you
@@ -17,14 +17,14 @@ leaving you with the remainder of the cards you then have to flip over
 The game is finish when you flip over all the cards
   - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
 
-
+---
 ### Table of Content
  - [Description](#escription)
  - [Tech Stack](#tech-stack)
  - [Lessons Learned](#Lessons-Learned)
  - [Author](#Authors)
 
-  
+  ---
 ### Description
 
 
@@ -41,7 +41,7 @@ The game is finish when you flip over all the cards
 - HTML Icon (https://www.toptal.com/designers/htmlarrows/symbols/)
 - CSS
 - javascript
-  
+ --- 
 ###  Lessons Learned
 
 Working with empty Array as well as pushig and storing items in them
@@ -55,7 +55,7 @@ Things I covered here are
 - sort()
 - For loops
   - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
-
+---
 ## Authors
 
 - Github [@ManqobaSibeko](https://wwwhttps:/github.com/ManqobaSibeko)
