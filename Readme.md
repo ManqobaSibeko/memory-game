@@ -37,10 +37,10 @@ The game is finish when you flip over all the cards
 ### Tech Stack
 
 **Client:** 
-- React 
+
 - HTML Icon (https://www.toptal.com/designers/htmlarrows/symbols/)
 - CSS
-
+- React 
   
 ###  Lessons Learned
 
