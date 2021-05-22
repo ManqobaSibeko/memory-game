@@ -1,0 +1,23 @@
+
+section{
+    width: 600px;
+    height: 1200px;
+    text-align: center;
+    background-color: aqua;
+    margin: auto;
+    position: relative;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+
+    background-color: brown;
+    float: left;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
