@@ -1,22 +1,39 @@
 
 section{
-    width: 600px;
-    height: 1200px;
+
     text-align: center;
-    background-color: aqua;
     margin: auto;
     position: relative;
+    display: flex;
+    width: 80%;
+}
+h1{
+    text-align: center;
 }
 
+img:hover{
+    transform: scale(1.2);
+}
 .grid {
+    flex: 70%;
     display: flex;
     flex-wrap: wrap;
-
-    background-color: brown;
-    float: left;
+    width: 600px;
+    margin: auto;
 
 }
-
+.instructions{
+    flex: 50%;
+ text-align: justify;
+ background-color: antiquewhite;
+}
+.instructions li ,h1{
+font-family: monospace;
+margin: 2em ;
+}
+.instructions li{
+margin: 2em ;
+}
 img{
     width: 200px;
     height: 200px;
