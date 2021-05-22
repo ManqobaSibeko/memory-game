@@ -40,7 +40,7 @@ The game is finish when you flip over all the cards
 
 - HTML Icon (https://www.toptal.com/designers/htmlarrows/symbols/)
 - CSS
-- React 
+- javascript
   
 ###  Lessons Learned
 
