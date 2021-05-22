@@ -6,8 +6,15 @@
   - ***View this site*** [here](https://manqobasibeko.github.io/Website1/index.html)
 
 
+Simple grid base game of which you as a player have to flip over two card
 
-![App Screenshot](https://images.pexels.com/photos/1081685/pexels-photo-1081685.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200&w=220)
+if the two cards match that's one point for you
+
+and also the card will be taken off the board
+
+leaving you with the remainder of the cards you then have to flip over
+
+The game is finish when you flip over all the cards
 
 
 ### Table of Content
