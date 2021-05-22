@@ -4,7 +4,7 @@
 - Test your memory with this memory game.
 
   - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
-  - ![App Screenshot]()
+  - ![App Screenshot](https://github.com/ManqobaSibeko/memory-game/blob/master/s.png?raw=true)
 
 ---
 
