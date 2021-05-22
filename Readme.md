@@ -20,9 +20,6 @@ The game is finish when you flip over all the cards
 ### Table of Content
  - [Description](#escription)
  - [Tech Stack](#tech-stack)
- - [Installation](#installation)
- - [Deployment](#deployment)
- - [Documentation](#Documentation)
  - [Lessons Learned](#Lessons-Learned)
  - [Author](#Authors)
 
