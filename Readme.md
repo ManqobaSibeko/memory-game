@@ -3,7 +3,7 @@
 
 - Test your memory with this memory game.
 
-  - ***Play the game*** [here](https://manqobasibeko.github.io/memory-game/)
+  - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
 
 
 Simple grid base game of which you as a player have to flip over two card
@@ -15,8 +15,7 @@ and also the card will be taken off the board
 leaving you with the remainder of the cards you then have to flip over
 
 The game is finish when you flip over all the cards
-- ***Play the game*** [here](https://manqobasibeko.github.io/memory-game/)
-
+  - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
 
 
 ### Table of Content
@@ -27,8 +26,7 @@ The game is finish when you flip over all the cards
 
   
 ### Description
-- ***Play the game*** [here](https://manqobasibeko.github.io/memory-game/)
-
+  - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
 
 - On the game board, there are always two identical images behind each block. 
 - Start the game by flipping a card(click a block).
@@ -56,8 +54,7 @@ Things I covered here are
 - Math.random()
 - sort()
 - For loops
-- ***Play the game*** [here](https://manqobasibeko.github.io/memory-game/)
-
+  - ***Want to play the game click*** [here](https://manqobasibeko.github.io/memory-game/)
 
 ## Authors
 
