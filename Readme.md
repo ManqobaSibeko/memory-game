@@ -18,7 +18,7 @@
  - [Author](#Authors)
 
   ---
-### Descriptionkjkb
+### Description
 
 - Simple grid base game of which you as a player have to flip over two card
 - On the game board, there are always two identical images behind each block. 
